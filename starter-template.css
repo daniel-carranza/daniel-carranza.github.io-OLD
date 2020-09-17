@@ -13,11 +13,11 @@ th, td {
   padding: 0.75em;
 }
 .big {
-  padding: 0.5rem 8rem 1rem;
+  padding: 0.5rem 0rem 1rem;
   font-size: 3.5em;
   color: #4a4f4f;
 }
 .colorhead {
-  padding: 0.75rem 8rem 0.75rem;
+  padding: 0.75rem 0rem 0.75rem;
   color: #f2a71f;
 }
