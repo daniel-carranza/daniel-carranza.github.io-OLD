@@ -2,11 +2,11 @@ body {
   padding-top: 2rem;
 }
 .starter-template {
-  padding: 3rem 1.5rem;
+  padding: 3rem 1rem;
   text-align: center;
 }
 .center {
-  max-width: 720px;
+  max-width: 45em;
   margin-left: auto;
   margin-right: auto;
 }
