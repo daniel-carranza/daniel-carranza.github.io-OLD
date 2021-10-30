@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.25)  30 OCT 2021 14:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.25)  30 OCT 2021 14:41
 entering extended mode
 **c:/Users/btheb/Documents/Research/website/daniel-carranza.github.io/cv/cv.tex
 (c:/Users/btheb/Documents/Research/website/daniel-carranza.github.io/cv/cv.tex
@@ -738,22 +738,22 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 10
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
-{C:/Users/btheb/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] Excluding 'comment' comment. (cv.aux)
+{C:/Users/btheb/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] Excluding 'comment' comment. (cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 4B244E0493496572468C8EA1AA6A63D6;730.
  ) 
 Here is how much of TeX's memory you used:
- 22804 strings out of 480202
- 422171 string characters out of 2877025
- 733697 words of memory out of 3000000
+ 22803 strings out of 480202
+ 422165 string characters out of 2877025
+ 733605 words of memory out of 3000000
  38852 multiletter control sequences out of 15000+200000
  586750 words of font info for 88 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,12n,110p,617b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb><C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso17.pfb><C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Users/btheb/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on cv.pdf (2 pages, 205753 bytes).
+Output written on cv.pdf (1 page, 203980 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  31293 words of extra memory for PDF output out of 35830 (max. 10000000)
 
